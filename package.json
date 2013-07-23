@@ -1,0 +1,20 @@
+{
+  "name": "donothing",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vlamic/donothing.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "gitHead": "b4ae21ab799889eb378ae7747ac41360b25e5bbf",
+  "devDependencies": {
+    "express": "~3.3.4"
+  }
+}
